@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis Dashboard
+# AtliQ Hospitality Analytics Dashboard
 
 ## Problem Statement
 
